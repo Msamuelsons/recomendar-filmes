@@ -3,10 +3,9 @@
 ## Introdução
 
 Este projeto tem como objetivo criar um sistema de recomendação de filmes com base em dados do Movie Lens, que contém avaliações e informações sobre filmes. Vamos explorar as etapas do projeto em quatro partes principais:
-
-[![Exemplo de GIF](images/meu_gif.gif)](https://github.com/Msamuelsons/recomendar-filmes/blob/main/Grava%C3%A7%C3%A3o%20de%20tela%20de%2004-11-2023%2010_44_26.gif?raw=true)
-
-
+<center>
+  ![Exemplo de GIF](https://github.com/Msamuelsons/recomendar-filmes/blob/main/Grava%C3%A7%C3%A3o%20de%20tela%20de%2004-11-2023%2010_44_26.gif?raw=true)
+</center>
 ## Parte I: Conhecendo Nossa Base de Dados
 
 - Nesta seção, começamos importando os dados do Movie Lens, que incluem avaliações de filmes, tags e informações sobre os filmes. Mostramos o tamanho de cada conjunto de dados.
